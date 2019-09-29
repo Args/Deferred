@@ -2,6 +2,10 @@
 
 This is an implementation of [OCaml's Deferred](https://ocaml.janestreet.com/ocaml-core/111.25.00/doc/async_kernel/#Deferred) for Swift.
 
+## Update to Swift5
+
+Fork this repository because the original author has not updated for a long time
+
 ## Overview
 
 `Deferred` is designed for supporting asynchronous programming. An instance of
